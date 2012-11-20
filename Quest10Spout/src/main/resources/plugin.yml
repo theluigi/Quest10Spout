@@ -1,0 +1,8 @@
+name: Quest10Spout
+main: edu.unca.jruggier.Quest10Spout.Quest10Spout
+version: 0.1
+
+commands:
+   command:
+      description: A Command
+      usage: /<command> 
